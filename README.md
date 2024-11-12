@@ -62,18 +62,18 @@ The dashboard layout follows a clean and user-friendly structure. Key components
 ## Sample Views
 
 - **View 1**:
-  ![View 1](https://github.com/Vinayak-pixel/A-CASE-STUDY-ON-CONSUMER-PRICE-INDEX-OF-INDIA/blob/main/Resources/CPIT.png)
+  ![View 1](https://github.com/Vinayak-pixel/Finance-Dashboard/blob/main/Resources/View1.png)
 
   - **View 2**:
-  ![View 1](https://github.com/Vinayak-pixel/A-CASE-STUDY-ON-CONSUMER-PRICE-INDEX-OF-INDIA/blob/main/Resources/CPIT.png)
+  ![View 2](https://github.com/Vinayak-pixel/Finance-Dashboard/blob/main/Resources/View2.png)
 
 - **View 3**:
-  ![View 1](https://github.com/Vinayak-pixel/A-CASE-STUDY-ON-CONSUMER-PRICE-INDEX-OF-INDIA/blob/main/Resources/CPIT.png)
+  ![View 3](https://github.com/Vinayak-pixel/Finance-Dashboard/blob/main/Resources/view3.png)
 
 
 ## Project Report
 
-For an in-depth analysis and methodology, view the full project report [here](https://drive.google.com/file/d/1B1fBqfKq2WVZk89nD4TQr-eFf9zLFB-y/view?usp=drive_link).
+For an in-depth analysis and methodology, view the full project report [here](https://github.com/Vinayak-pixel/Finance-Dashboard/blob/main/Report/Finance_Dashboard.pbix).
 
 ---
 
