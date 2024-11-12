@@ -9,7 +9,7 @@ This project visualizes the household finance data using **Power BI**. The dashb
 - Power BI Desktop
 - Excel
 - DAX language
-- Power BI Service (for publishing and sharing reports)
+
 
 ## Power BI Techniques Applied
 
@@ -20,7 +20,6 @@ This project visualizes the household finance data using **Power BI**. The dashb
 - Conditional formatting for improved data visualization
 - Dynamic titles based on filters
 - KPI indicators and data validation techniques
-- Publishing reports to Power BI Service for easy access and sharing
 - Setting up auto-refresh for updated data
 
 ## Key Financial Components
