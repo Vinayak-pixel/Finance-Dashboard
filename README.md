@@ -61,14 +61,15 @@ The dashboard layout follows a clean and user-friendly structure. Key components
 
 ## Sample Views
 
-### Income View
-Displays insights on household income, including trends and monthly comparisons.
+- **View 1**:
+  ![View 1](https://github.com/Vinayak-pixel/A-CASE-STUDY-ON-CONSUMER-PRICE-INDEX-OF-INDIA/blob/main/Resources/CPIT.png)
 
-### Savings View
-Visualizes savings by type and tracks monthly growth.
+  - **View 2**:
+  ![View 1](https://github.com/Vinayak-pixel/A-CASE-STUDY-ON-CONSUMER-PRICE-INDEX-OF-INDIA/blob/main/Resources/CPIT.png)
 
-### Expense View
-Categorizes spending and highlights the largest expense categories.
+- **View 3**:
+  ![View 1](https://github.com/Vinayak-pixel/A-CASE-STUDY-ON-CONSUMER-PRICE-INDEX-OF-INDIA/blob/main/Resources/CPIT.png)
+
 
 ## Project Report
 
